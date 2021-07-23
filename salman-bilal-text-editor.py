@@ -8,7 +8,7 @@ main_application.geometry('1000x500')
 main_application.title('Salman Bilal text editor')
 
 main_menu = tk.Menu()
-# file icons
+
 new_icon = tk.PhotoImage(file='icons2/new.png')
 open_icon = tk.PhotoImage(file='icons2/open.png')
 save_icon = tk.PhotoImage(file='icons2/save.png')
